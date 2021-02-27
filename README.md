@@ -1,2 +1,3 @@
 # My-first-repository
-just try 
+just try to write some code 
+;)
